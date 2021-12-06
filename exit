@@ -1,0 +1,84 @@
+[33mcommit 2bd84b32086198f8824beb55c650e11b0e36c498[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: 解大劦 <9727005@qq.com>
+Date:   Mon Nov 29 16:37:15 2021 +0800
+
+    添加包含开发人员成员列表的信息
+
+[33mcommit 8b2fcfdbda6dbba63b53baf7eca240b9987249e2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: xiedali <notinmood@gmail.com>
+Date:   Tue Sep 7 11:38:13 2021 +0800
+
+    是
+
+[33mcommit d2a3c25354c754e63de652ca2ea42c05cbcda34d[m
+Author: xiedali <notinmood@gmail.com>
+Date:   Tue Sep 7 11:24:52 2021 +0800
+
+    天天
+
+[33mcommit 20acbfd474465b5ab5ef87e17143e2091de7d7c5[m
+Merge: 5c2c9a5 9dc18aa
+Author: xiedali <notinmood@gmail.com>
+Date:   Tue Sep 7 11:22:30 2021 +0800
+
+    Merge branch 'Contract' into main
+
+[33mcommit 9dc18aae39281aa160518eb3a503abe85219b5c2[m[33m ([m[1;31morigin/Contract[m[33m)[m
+Author: xiedali <notinmood@gmail.com>
+Date:   Tue Sep 7 11:14:32 2021 +0800
+
+    修改contact文件
+
+[33mcommit 5c2c9a59a838053e0c783ab3028be0ee399ad7a5[m
+Author: 解大劦 <9727005@qq.com>
+Date:   Wed Aug 18 08:43:18 2021 +0800
+
+    Update README.md
+
+[33mcommit d98bd96d6d1aa677ecc40d73bf56b1db465c315a[m
+Merge: 98f10b8 e5155a6
+Author: 解大劦 <9727005@qq.com>
+Date:   Wed Aug 18 08:31:55 2021 +0800
+
+    Merge pull request #2 from notinmood/Contract
+    
+    添加合同功能
+
+[33mcommit e5155a689fbb6580e739820b9d917215999119ac[m
+Author: xiedali <notinmood@gmail.com>
+Date:   Wed Aug 18 08:30:18 2021 +0800
+
+    添加合同功能
+
+[33mcommit 98f10b8fb517b1abeb5c8b98858ea86ddaaaf6f2[m
+Author: 解大劦 <9727005@qq.com>
+Date:   Wed Aug 18 08:29:49 2021 +0800
+
+    Update README.md
+
+[33mcommit 728ccf00bb9b8aa131bac9f92d31e1dfd3870207[m
+Merge: 0cbbc4f 1fbdf01
+Author: 解大劦 <9727005@qq.com>
+Date:   Wed Aug 18 08:22:38 2021 +0800
+
+    Merge pull request #1 from notinmood/UserService
+    
+    添加完成UserService功能
+
+[33mcommit 1fbdf01efee51eff4e1b7b4edba91f7f5a42af3a[m[33m ([m[1;31morigin/UserService[m[33m)[m
+Author: xiedali <notinmood@gmail.com>
+Date:   Wed Aug 18 07:31:15 2021 +0800
+
+    添加完成UserService功能
+
+[33mcommit 0cbbc4f3a8a74fa464c01ec23e42ab9060cd1649[m
+Author: xiedali <notinmood@gmail.com>
+Date:   Fri Jul 23 11:49:27 2021 +0800
+
+    新建立
+
+[33mcommit b79723dca7c2f5197302b04823b4b8d2248a993b[m
+Author: 解大劦 <9727005@qq.com>
+Date:   Fri Jul 23 11:47:37 2021 +0800
+
+    Initial commit
